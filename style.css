@@ -14,7 +14,7 @@ body{ /* body selecciona el cuerpo general y lo pinta */
 }
 
 #contenedor{/* selecciona el div y lo pinta */
-	width: 900px; 
+	width: 800px; 
 	padding: 20px 0px;
 	margin: 0px;
 	background: gray;
